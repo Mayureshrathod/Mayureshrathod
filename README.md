@@ -1,4 +1,4 @@
-# Hey, I'm Mayuresh 👋
+# MAYURESH RATHOD
 
 ### IT Engineering Student | Java Developer | Full Stack Learner
 
@@ -10,9 +10,9 @@ Rather than collecting certificates, I prefer learning through projects, solving
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🎮 TCP – For Gamers By Gamers
+### TCP – For Gamers By Gamers
 
 Gaming-focused web platform developed using Django and MySQL.
 
@@ -25,7 +25,7 @@ Gaming-focused web platform developed using Django and MySQL.
 
 ---
 
-### 🛒 E-Commerce Website
+### E-Commerce Website
 
 Built as a full-stack web development project to gain practical experience in:
 
@@ -36,7 +36,7 @@ Built as a full-stack web development project to gain practical experience in:
 
 ---
 
-### 🎯 Game Development Projects
+### Game Development Projects
 
 Currently working on multiple game development projects and experiments to improve my understanding of:
 
@@ -47,7 +47,7 @@ Currently working on multiple game development projects and experiments to impro
 
 ---
 
-## 💻 Languages
+## Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -56,7 +56,7 @@ Currently working on multiple game development projects and experiments to impro
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0A66C2?style=for-the-badge)
 ![Game Developer](https://img.shields.io/badge/Game_Developer-000000?style=for-the-badge\&logo=unity\&logoColor=white)
@@ -65,7 +65,7 @@ Currently working on multiple game development projects and experiments to impro
 
 ---
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 * Software Development
 * Full Stack Applications
@@ -76,7 +76,7 @@ Currently working on multiple game development projects and experiments to impro
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Java Full Stack Development
 * Backend Architecture
@@ -87,12 +87,12 @@ Currently working on multiple game development projects and experiments to impro
 
 ---
 
-## 🎯 Current Goal
+## Current Goal
 
 To become a strong software engineer capable of building scalable applications while continuously exploring emerging technologies such as AI and game development.
 
 ---
 
-### ⚡ Philosophy
+### Philosophy
 
 > Building projects, solving problems, and learning something new every day.
