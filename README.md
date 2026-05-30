@@ -1,101 +1,81 @@
-# 👋 Hi, I'm Mayuresh
+# 👋 Hey, I'm Mayuresh
 
-🚀 Passionate IT Engineering Student | Java Developer | Full Stack Learner | AI/ML Enthusiast  
-🎮 Gamer at heart | "For Gamers By Gamers"
+### IT Engineering Student | Java Developer | Full Stack Learner | Game Development Enthusiast
 
----
+I'm a second-year Information Technology student who enjoys building projects and learning by creating real applications. My interests include web development, backend systems, databases, networking, game development, and AI-powered tools.
 
-## 👨‍💻 About Me
-
-- 🎓 2nd Year IT Engineering Student  
-- 💻 Currently learning **Java Full Stack Development**
-- 🤖 Exploring **AI/ML Projects**
-- 🌐 Building a gaming blog platform **TCP (For Gamers By Gamers)**
-- 🎯 Goal: Become a skilled **Software Developer + AI Engineer**
-- 🔥 Interested in **Esports, Tech, and Creative Development**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- Java ☕
-- Python 🐍
-- JavaScript ⚡
-- HTML5 & CSS3 🎨
-
-### 🌐 Web Development
-- Frontend: HTML, CSS, JavaScript
-- Backend: Django
-- Database: MySQL
-
-### ⚙️ Tools & Platforms
-- VS Code
-- Git & GitHub
-- MySQL Workbench
-- MongoDB Compass
+Rather than collecting certificates, I prefer learning through projects and understanding how systems work behind the scenes.
 
 ---
 
 ## 🚀 Projects
 
-### 🎮 TCP – Gaming Blog Website
-> "For Gamers By Gamers"
+### 🎮 TCP – For Gamers By Gamers
 
-- Built using **Django + MySQL**
-- Features:
-  - User Authentication (Login/Signup)
-  - Gaming Blogs, Reviews & News
-  - Responsive UI
+A gaming-focused web platform developed using Django and MySQL.
 
----
+**Key Features:**
 
-### 💡 Other Project Ideas (In Progress)
-- ✂️ Barber Appointment QR App  
-- ⛽ FuelTrackr – Mileage & Trip Estimator  
-- 👨‍💻 Collaborative Coding Platform  
+* User Authentication System
+* Database Integration with MySQL
+* Gaming Blog & Content Management
+* Frontend Development using HTML, CSS & JavaScript
 
----
+### 🛒 E-Commerce Website
 
-## 📈 Currently Learning
+Built as a full-stack web development project to understand:
 
-- Advanced Java (OOP, Collections, JDBC)
-- Full Stack Development
-- AI/ML Basics
-- Backend Development & APIs
+* Product Management
+* User Interactions
+* Database Operations
+* Backend Logic
 
----
+### 🎯 Game Development Projects
 
-## 🎯 Goals
+Currently working on multiple game-related projects and experiments to improve my understanding of:
 
-- ✔ Master Java Full Stack
-- ✔ Build Real-World Projects
-- ✔ Contribute to Open Source
-- ✔ Enter the Tech Industry as a Developer
+* Game Logic
+* Gameplay Systems
+* UI Design
+* Development Workflows
 
 ---
 
-## 🎮 Fun Side
+## 💻 Languages
 
-- Esports enthusiast 🎯
-- FPS & tactical gaming lover 🔫
-- Content creator mindset 🎥
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Mayureshrathod
-- LinkedIn: www.linkedin.com/in/mayuresh-rathod
-
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
 
-## ⚡ Quote I Believe In
+## 🛠 Skills
 
-> "Code, Learn, Build, Repeat 🚀"
+![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge)
+![Game Developer](https://img.shields.io/badge/Game_Developer-5C2D91?style=for-the-badge)
+![Blender Designer](https://img.shields.io/badge/Blender_Designer-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
+![After Effects Editor](https://img.shields.io/badge/After_Effects_Editor-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 🎯 Areas of Interest
+
+* Software Development
+* Full Stack Applications
+* Game Development
+* Artificial Intelligence
+* Computer Networking
+* Esports & Gaming Technology
+
+---
+
+## 🌱 Current Goal
+
+To become a strong software engineer capable of building scalable applications while continuously exploring emerging technologies such as AI and game development.
+
+---
+
+### 💡 Philosophy
+
+> Building projects, solving problems, and learning something new every day.
