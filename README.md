@@ -1,10 +1,12 @@
-# 👋 Hey, I'm Mayuresh
+# Hey, I'm Mayuresh 👋
 
-### IT Engineering Student | Java Developer | Full Stack Learner | Game Development Enthusiast
+### IT Engineering Student | Java Developer | Full Stack Learner
 
-I'm a second-year Information Technology student who enjoys building projects and learning by creating real applications. My interests include web development, backend systems, databases, networking, game development, and AI-powered tools.
+I'm a second-year Information Technology student who enjoys building projects and learning by creating real applications.
 
-Rather than collecting certificates, I prefer learning through projects and understanding how systems work behind the scenes.
+My interests include web development, backend systems, databases, networking, game development, and AI-powered tools.
+
+Rather than collecting certificates, I prefer learning through projects, solving real problems, and understanding how systems work behind the scenes.
 
 ---
 
@@ -12,32 +14,36 @@ Rather than collecting certificates, I prefer learning through projects and unde
 
 ### 🎮 TCP – For Gamers By Gamers
 
-A gaming-focused web platform developed using Django and MySQL.
+Gaming-focused web platform developed using Django and MySQL.
 
-**Key Features:**
+**Key Features**
 
 * User Authentication System
-* Database Integration with MySQL
-* Gaming Blog & Content Management
+* Database Integration
+* Gaming Blogs & Content Management
 * Frontend Development using HTML, CSS & JavaScript
+
+---
 
 ### 🛒 E-Commerce Website
 
-Built as a full-stack web development project to understand:
+Built as a full-stack web development project to gain practical experience in:
 
 * Product Management
 * User Interactions
 * Database Operations
 * Backend Logic
 
+---
+
 ### 🎯 Game Development Projects
 
-Currently working on multiple game-related projects and experiments to improve my understanding of:
+Currently working on multiple game development projects and experiments to improve my understanding of:
 
 * Game Logic
 * Gameplay Systems
-* UI Design
-* Development Workflows
+* Design Workflows
+* Development Pipelines
 
 ---
 
@@ -49,14 +55,13 @@ Currently working on multiple game-related projects and experiments to improve m
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
-[
+
 ## 🛠 Skills
 
-![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge)
-![Game Developer](https://img.shields.io/badge/Game_Developer-5C2D91?style=for-the-badge)
-![Blender Designer](https://img.shields.io/badge/Blender_Designer-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-0A66C2?style=for-the-badge)
+![Game Developer](https://img.shields.io/badge/Game_Developer-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+![Blender 3D Designer](https://img.shields.io/badge/Blender_Designer-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
 ![After Effects Editor](https://img.shields.io/badge/After_Effects_Editor-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-](https://systeme.io/?sa=sa016467999067eac0012ad5666fece842d52e44e8)
 
 ---
 
@@ -71,12 +76,23 @@ Currently working on multiple game-related projects and experiments to improve m
 
 ---
 
-## 🌱 Current Goal
+## 📚 Currently Learning
+
+* Java Full Stack Development
+* Backend Architecture
+* REST APIs
+* Database Design
+* Computer Networking
+* AI & Machine Learning
+
+---
+
+## 🎯 Current Goal
 
 To become a strong software engineer capable of building scalable applications while continuously exploring emerging technologies such as AI and game development.
 
 ---
 
-### 💡 Philosophy
+### ⚡ Philosophy
 
 > Building projects, solving problems, and learning something new every day.
