@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mayuresh (EagleMayur)
+# 👋 Hi, I'm Mayuresh
 
 🚀 Passionate IT Engineering Student | Java Developer | Full Stack Learner | AI/ML Enthusiast  
 🎮 Gamer at heart | "For Gamers By Gamers"
