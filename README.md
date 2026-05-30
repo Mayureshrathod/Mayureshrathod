@@ -49,13 +49,14 @@ Currently working on multiple game-related projects and experiments to improve m
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ---
-
+[
 ## 🛠 Skills
 
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Developer-000000?style=for-the-badge)
 ![Game Developer](https://img.shields.io/badge/Game_Developer-5C2D91?style=for-the-badge)
 ![Blender Designer](https://img.shields.io/badge/Blender_Designer-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
 ![After Effects Editor](https://img.shields.io/badge/After_Effects_Editor-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
+](https://systeme.io/?sa=sa016467999067eac0012ad5666fece842d52e44e8)
 
 ---
 
