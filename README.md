@@ -76,17 +76,6 @@ Currently working on multiple game development projects and experiments to impro
 
 ---
 
-## Currently Learning
-
-* Java Full Stack Development
-* Backend Architecture
-* REST APIs
-* Database Design
-* Computer Networking
-* AI & Machine Learning
-
----
-
 ## Current Goal
 
 To become a strong software engineer capable of building scalable applications while continuously exploring emerging technologies such as AI and game development.
